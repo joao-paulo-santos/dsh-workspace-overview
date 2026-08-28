@@ -1,0 +1,5 @@
+# dsh-workspace-overview: a Workspace Overview tab beside Chat.
+# Placeholder release: the tab renders an empty state.
+- insert:
+    - id: workspace-overview
+      name: dsh-workspace-overview
