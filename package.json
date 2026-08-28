@@ -1,6 +1,6 @@
 {
   "name": "dsh-workspace-overview",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Workspace overview: a Workspace Overview tab beside Chat with a subtab facade for other plugins, and a GitHub pill in the session header when the workspace has a github.com repository.",
   "type": "module",
   "license": "MIT",
