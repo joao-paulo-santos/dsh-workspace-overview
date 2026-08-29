@@ -40,3 +40,4 @@ Restart the harness; the tab appears beside Chat.
 ## Plugins dependent on this
 
 - [dsh-workspace-history](https://github.com/joao-paulo-santos/dsh-workspace-history) contributes a History subtab listing the workspace's compaction journal
+- [dsh-wo-github](https://github.com/joao-paulo-santos/dsh-wo-github) contributes a GitHub subtab with the About card, README, and commit history
